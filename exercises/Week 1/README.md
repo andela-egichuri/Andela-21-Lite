@@ -1,5 +1,5 @@
 
-# Andela 21 Lite Exercises
+# Week 1 Exercises
 
 ## Instructions:
 Attempt any 3 questions.
