@@ -1,3 +1,3 @@
-# andela-21-Lite
+# andela-Lite
 
-Curriculum, Exercises and Solutions for the Andela 21 Lite programme
+Curriculum, Exercises and Solutions for the Andela Lite programme
